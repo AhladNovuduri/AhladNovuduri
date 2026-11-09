@@ -17,7 +17,7 @@ I work on analytics projects that turn structured data into clear questions, use
 
 - Data analysis and business intelligence
 - Exploratory data analysis and statistical thinking
-- Machine learning and generative AI engineering
+- Machine learning and generative AI engineering — current learning focus
 - Reproducible analysis, data quality, and clear technical documentation
 
 ## Tools represented in my projects
