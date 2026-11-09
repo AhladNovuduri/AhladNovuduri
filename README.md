@@ -30,7 +30,7 @@ Improving reproducibility, analytical validation, and project documentation acro
 
 ## Connect
 
-[GitHub profile](https://github.com/AhladNovuduri)
+[LinkedIn](https://www.linkedin.com/in/ahladnovuduri/) · [GitHub profile](https://github.com/AhladNovuduri)
 
 ---
 
