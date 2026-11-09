@@ -10,7 +10,7 @@ I work on analytics projects that turn structured data into clear questions, use
 |---|---|---|
 | [Global Retail Business Analysis](https://github.com/AhladNovuduri/global-retail-business-analysis) | Tableau dashboards paired with a business insights report | Packaged workbook and dashboard previews are included; upstream data preparation is not independently reproducible from this repository. |
 | [HR Analytics — Excel & AI-Assisted Workflow](https://github.com/AhladNovuduri/hr-analytics-excel-ai) | KPI design, workforce segmentation, Excel dashboards, and documented AI assistance | Uses synthetic employee data. The workbook still needs a desktop Excel recalculation and save check. |
-| [E-commerce Analysis](https://github.com/AhladNovuduri/E-commerce-Analysis) | Python notebook, exploratory analysis, and data visualizations | The notebook currently references a raw input file that is not in the repository; its cleaning and customer-contribution methodology needs review before its results are relied on. |
+| [E-commerce Analysis](https://github.com/AhladNovuduri/E-commerce-Analysis) | Reproducible Python EDA on the committed cleaned dataset | The notebook now runs without repeating undocumented cleaning; source provenance, row grain, units, and upstream cleaning remain unknown. |
 | [Black Friday Sales Analysis](https://github.com/AhladNovuduri/black-friday-sales-analysis) | Power BI report and processed transaction data | The repository contains the report and processed data, but not the source transformation code or verified data provenance. |
 
 ## Areas of focus
